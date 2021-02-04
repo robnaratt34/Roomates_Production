@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: red
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;    
+}
+header{
+    text-align: center;
+    background-color: blue;
+    border-color: white;
+    border-style: solid;
+}
+nav{
+    text-align: center;
+}
+#edit{
+    text-align: center;
+}
