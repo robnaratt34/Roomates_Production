@@ -1,13 +1,13 @@
 body{
-    background-color: black;
-    color: red
+    background-color: #FF82C1;
+    color: black
 }
 h1{
     font-family: 'Times New Roman', Times, serif;    
 }
 header{
     text-align: center;
-    background-color: blue;
+    background-color: #E37A4C;
     border-color: white;
     border-style: solid;
 }
