@@ -34,3 +34,6 @@ a, a:hover, a:focus, a:active {
     color: black;
     font-weight: bold;
 }
+.row h2{
+    text-align: center;
+}
