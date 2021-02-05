@@ -24,3 +24,13 @@ a, a:hover, a:focus, a:active {
 #active{
     color: orange;
 }
+.carousel-inner {
+    text-align: center;
+}
+.carousel .item > img {
+    display: inline-block;
+}
+.carousel .carousel-caption {
+    color: black;
+    font-weight: bold;
+}
